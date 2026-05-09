@@ -91,15 +91,25 @@ const App = () => {
               </div>
             </div>
 
-            <div className='w-full flowdiv'>
-              <div className="bg-red-300 card size-40"></div>
-              <div className="bg-red-300 card size-40"></div>
-              <div className="bg-red-300 card size-40"></div>
-              <div className="bg-red-300 card size-40"></div>
-              <div className="bg-red-300 card size-40"></div>
-              <div className="bg-red-300 card size-40"></div>
-              <div className="bg-red-300 card size-40"></div>
-              <div className="bg-red-300 card size-40"></div>
+            <div className='w-full flowdiv overflow-hidden'>
+              <div className="flowtrack flex w-max">
+                <div className="bg-red-300 card size-40 me-3"></div>
+                <div className="bg-red-300 card size-40 me-3"></div>
+                <div className="bg-red-300 card size-40 me-3"></div>
+                <div className="bg-red-300 card size-40 me-3"></div>
+                <div className="bg-red-300 card size-40 me-3"></div>
+                <div className="bg-red-300 card size-40 me-3"></div>
+                <div className="bg-red-300 card size-40 me-3"></div>
+                <div className="bg-red-300 card size-40 me-3"></div>
+                <div className="bg-red-300 card size-40 me-3"></div>
+                <div className="bg-red-300 card size-40 me-3"></div>
+                <div className="bg-red-300 card size-40 me-3"></div>
+                <div className="bg-red-300 card size-40 me-3"></div>
+                <div className="bg-red-300 card size-40 me-3"></div>
+                <div className="bg-red-300 card size-40 me-3"></div>
+                <div className="bg-red-300 card size-40 me-3"></div>
+                <div className="bg-red-300 card size-40 me-3"></div>
+              </div>
             </div>
           </div>
         </div>
