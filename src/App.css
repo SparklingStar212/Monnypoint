@@ -1,0 +1,14 @@
+.flowdiv {
+  display: flex;
+  overflow: hidden;
+}
+.card {
+  margin-right: 10px;
+  animation: scroll 10s linear infinite;
+}
+
+@keyframes flow {
+  to {
+    transform: translateX(-100%);
+  }
+}
